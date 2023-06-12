@@ -1,0 +1,86 @@
+[
+    {
+        "word": "happy",
+        "definition": "feeling or showing pleasure or contentment",
+        "synonyms": ["cheerful", "content", "pleased"],
+        "antonyms": ["sad", "unhappy", "depressed"]
+    },
+    {
+        "word": "sad",
+        "definition": "feeling or showing sorrow; unhappy",
+        "synonyms": ["unhappy", "sorrowful", "dejected"],
+        "antonyms": ["happy", "cheerful", "content"]
+    },
+    {
+        "word": "bright",
+        "definition": "giving out or reflecting a lot of light; shining",
+        "synonyms": ["shining", "light", "brilliant"],
+        "antonyms": ["dark", "dull", "dim"]
+    },
+    {
+        "word": "abruptly",
+        "definition": "suddenly and unexpectedly",
+        "synonyms": ["suddenly", "hastily", "unexpectedly"],
+        "antonyms": ["gradually", "slowly"]
+    },
+    {
+        "word": "jigsaw",
+        "definition": "a puzzle consisting of a picture printed on cardboard or wood and cut into various pieces of different shapes that have to be fitted together",
+        "synonyms": ["puzzle", "enigma", "conundrum"],
+        "antonyms": ["solution", "answer"]
+    },
+    {
+        "word": "dwarves",
+        "definition": "a member of a mythical race of short, stocky human-like creatures who are generally skilled in mining and metalworking.",
+        "synonyms": ["midget", "pygmy", "gnome"],
+        "antonyms": ["giant", "jumbo", "titan"]
+    },
+    {
+        "word": "inexplicably",
+        "definition": "in a way that is difficult or impossible to explain",
+        "synonyms": ["unaccountably", "unexplainably", "incomprehensibly"],
+        "antonyms": ["explicably", "comprehensibly"]
+    },
+    {
+        "word": "axiom",
+        "definition": "a statement or proposition which is regarded as being established, accepted, or self-evidently true",
+        "synonyms": ["postulate", "given", "truisms"],
+        "antonyms": ["absurdity", "ambiguity"]
+    },
+    {
+        "word": "exodus",
+        "definition": "a mass departure of people",
+        "synonyms": ["departure", "emigration", "exit"],
+        "antonyms": ["arrival", "entry"]
+    },
+    {
+        "word": "fjord",
+        "definition": "a long, narrow, deep inlet of the sea between high cliffs, as in Norway and Iceland, typically formed by submergence of a glaciated valley.",
+        "synonyms": ["inlet", "creek", "cove"],
+        "antonyms": []
+    },
+    {
+        "word": "luxury",
+        "definition": "the state of great comfort and extravagant living",
+        "synonyms": ["opulence", "wealth", "comfort"],
+        "antonyms": ["poverty", "hardship"]
+    },
+    {
+        "word": "mythic",
+        "definition": "occurring in or characteristic of myths or folk tales",
+        "synonyms": ["legendary", "mythological", "fabled"],
+        "antonyms": ["real", "actual"]
+    },
+    {
+        "word": "oxygen",
+        "definition": "a chemical element of atomic number 8 and symbol O",
+        "synonyms": ["air", "breath", "life"],
+        "antonyms": []
+    },
+    {
+        "word": "unzip",
+        "definition": "open the zipper of (a garment or bag)",
+        "synonyms": ["open", "undo", "untie"],
+        "antonyms": ["zip", "close", "seal"]
+    }
+]
